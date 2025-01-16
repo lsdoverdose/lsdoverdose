@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lsdoverdose
-- ✨ Just for fun
+- ✨ Code for fun
 
 <!---
 lsdoverdose/lsdoverdose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
